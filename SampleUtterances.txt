@@ -1,0 +1,14 @@
+GetNewFactIntent a fact
+GetNewFactIntent a president fact
+GetNewFactIntent president fact
+GetNewFactIntent tell me a fact
+GetNewFactIntent tell me a president fact
+GetNewFactIntent give me a fact
+GetNewFactIntent give me a president fact
+GetNewFactIntent tell me trivia
+GetNewFactIntent tell me a president trivia
+GetNewFactIntent give me trivia
+GetNewFactIntent give me a president trivia
+GetNewFactIntent give me some information
+GetNewFactIntent give me some president information
+GetNewFactIntent tell me something about the president
